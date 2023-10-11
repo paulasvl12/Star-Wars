@@ -43,3 +43,6 @@ body, html {
     margin: 3%;
     border: solid black;
 }
+#warning {
+    color: red;
+    font-size: 24px;
